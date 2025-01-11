@@ -9,21 +9,42 @@
                     "name": "Clotilde",
                     "date": "Mon Jul 27 2015 05:07:50 GMT+0530 (India Standard Time)",
                     "jobTitle": "Human Quality Representative",
-                    "desc": "Future"
+                    "desc": "Future",
+                    "availablePositions": 3,
+                    "subCards": [
+                        {
+                            "id": "b1d9e679-437f-442b-99d0-2c7e8ed9c145",
+                            "title": "Subcard Title 1"
+                        }
+                    ]
                 },
                 {
                     "id": "28d0ec2b-ac53-4781-967f-b35fd7c2e30d",
                     "name": "Marta",
                     "date": "Sat Aug 26 1978 20:23:33 GMT+0530 (India Standard Time)",
                     "jobTitle": "Internal Research Technician",
-                    "desc": "International"
+                    "desc": "International",
+                    "availablePositions": 5,
+                    "subCards": [
+                        {
+                            "id": "9c93e7e5-1bcb-4642-b529-cd0f5f2f6b35",
+                            "title": "Subcard Title 2"
+                        }
+                    ]
                 },
                 {
                     "id": "81ed3421-1400-4620-9afa-f780f9ae188f",
                     "name": "Zora",
-                    "date": "Wed Jun 12 1985 02:24:53 GMT+0530 (India Standard Time)",
+                    "date": "Wed Jun 12 1978 02:24:53 GMT+0530 (India Standard Time)",
                     "jobTitle": "Chief Data Supervisor",
-                    "desc": "Dynamic"
+                    "desc": "Dynamic",
+                    "availablePositions": 2,
+                    "subCards": [
+                        {
+                            "id": "ab9783f4-b62e-4b9e-8fc4-bdb7e24c98d0",
+                            "title": "Subcard Title 3"
+                        }
+                    ]
                 }
             ]
         },
@@ -36,21 +57,42 @@
                     "name": "Clara",
                     "date": "Fri Jun 01 1990 20:55:04 GMT+0530 (India Standard Time)",
                     "jobTitle": "District Configuration Consultant",
-                    "desc": "Corporate"
+                    "desc": "Corporate",
+                    "availablePositions": 8,
+                    "subCards": [
+                        {
+                            "id": "657ec0f0-7b93-45c1-b4d8-13f9189b6e97",
+                            "title": "Subcard Title 4"
+                        }
+                    ]
                 },
                 {
                     "id": "0bfc4b1a-d444-43d8-966f-14f3a72feb9d",
                     "name": "Shanel",
                     "date": "Thu Oct 01 2020 15:25:12 GMT+0530 (India Standard Time)",
                     "jobTitle": "Senior Configuration Developer",
-                    "desc": "Principal"
+                    "desc": "Principal",
+                    "availablePositions": 4,
+                    "subCards": [
+                        {
+                            "id": "6d548bdf-9f87-466f-b2c1-ff9c9b9b8fa3",
+                            "title": "Subcard Title 5"
+                        }
+                    ]
                 },
                 {
                     "id": "adc76f39-421f-4689-b37b-179bebd38ae7",
                     "name": "Bradly",
                     "date": "Wed Feb 06 2008 15:16:16 GMT+0530 (India Standard Time)",
                     "jobTitle": "Global Interactions Consultant",
-                    "desc": "Customer"
+                    "desc": "Customer",
+                    "availablePositions": 6,
+                    "subCards": [
+                        {
+                            "id": "17459cf9-e7b1-45a5-81f2-1d97ff658fa0",
+                            "title": "Subcard Title 6"
+                        }
+                    ]
                 }
             ]
         },
@@ -63,21 +105,42 @@
                     "name": "Bradley",
                     "date": "Tue Jul 26 2022 16:44:55 GMT+0530 (India Standard Time)",
                     "jobTitle": "Senior Usability Strategist",
-                    "desc": "Lead"
+                    "desc": "Lead",
+                    "availablePositions": 7,
+                    "subCards": [
+                        {
+                            "id": "bdaf6c3c-f0bc-4f80-b6ba-1bb9bb10c19a",
+                            "title": "Subcard Title 7"
+                        }
+                    ]
                 },
                 {
                     "id": "498a65cd-1d1d-43d0-b3ba-0db1b30d788c",
                     "name": "Amanda",
                     "date": "Sun Mar 05 2017 15:59:48 GMT+0530 (India Standard Time)",
                     "jobTitle": "Legacy Directives Technician",
-                    "desc": "Corporate"
+                    "desc": "Corporate",
+                    "availablePositions": 1,
+                    "subCards": [
+                        {
+                            "id": "2f0e983d-c6fd-4e6d-9612-20949b1c0da5",
+                            "title": "Subcard Title 8"
+                        }
+                    ]
                 },
                 {
                     "id": "a05e15df-2c34-495b-bd84-04e454d04951",
                     "name": "Rhea",
                     "date": "Sun Mar 27 1983 22:00:20 GMT+0530 (India Standard Time)",
                     "jobTitle": "Dynamic Configuration Assistant",
-                    "desc": "Human"
+                    "desc": "Human",
+                    "availablePositions": 9,
+                    "subCards": [
+                        {
+                            "id": "1b738c8b-63b6-4f96-9aaf-dc586d5e8df3",
+                            "title": "Subcard Title 9"
+                        }
+                    ]
                 }
             ]
         },
@@ -90,21 +153,42 @@
                     "name": "Haskell",
                     "date": "Mon Aug 13 2001 17:15:46 GMT+0530 (India Standard Time)",
                     "jobTitle": "Investor Mobility Assistant",
-                    "desc": "Global"
+                    "desc": "Global",
+                    "availablePositions": 3,
+                    "subCards": [
+                        {
+                            "id": "27edeced-bec5-4937-a0b3-69ccbb0565e5",
+                            "title": "Subcard Title 10"
+                        }
+                    ]
                 },
                 {
                     "id": "af69e289-fad1-4a39-8937-54f85506dcfd",
                     "name": "Britney",
                     "date": "Fri Oct 20 2017 02:12:20 GMT+0530 (India Standard Time)",
                     "jobTitle": "Chief Research Technician",
-                    "desc": "Regional"
+                    "desc": "Regional",
+                    "availablePositions": 6,
+                    "subCards": [
+                        {
+                            "id": "3a4d02b3-21b7-479b-8c5c-bcb9d1a2f303",
+                            "title": "Subcard Title 11"
+                        }
+                    ]
                 },
                 {
                     "id": "ece58b49-4b82-4bdd-b793-cbde6c5e405e",
                     "name": "Jennifer",
                     "date": "Tue Jan 08 2008 02:17:43 GMT+0530 (India Standard Time)",
                     "jobTitle": "Global Security Developer",
-                    "desc": "Corporate"
+                    "desc": "Corporate",
+                    "availablePositions": 4,
+                    "subCards": [
+                        {
+                            "id": "0f7a9b10-1b2f-4e9b-b278-7c5b61584b2c",
+                            "title": "Subcard Title 12"
+                        }
+                    ]
                 }
             ]
         },
@@ -117,21 +201,42 @@
                     "name": "Jasmin",
                     "date": "Tue Aug 22 2023 22:41:47 GMT+0530 (India Standard Time)",
                     "jobTitle": "District Infrastructure Consultant",
-                    "desc": "International"
+                    "desc": "International",
+                    "availablePositions": 9,
+                    "subCards": [
+                        {
+                            "id": "b4a3b68a-3c1d-402a-aad4-1f2f924a8f3a",
+                            "title": "Subcard Title 13"
+                        }
+                    ]
                 },
                 {
                     "id": "5e8a30d8-3a76-414f-bcf2-2936014bebbf",
                     "name": "Marlen",
                     "date": "Tue Apr 06 2021 13:22:39 GMT+0530 (India Standard Time)",
                     "jobTitle": "International Tactics Consultant",
-                    "desc": "Central"
+                    "desc": "Central",
+                    "availablePositions": 2,
+                    "subCards": [
+                        {
+                            "id": "c6176326-1d09-4b1a-8c7d-ff013e0296d8",
+                            "title": "Subcard Title 14"
+                        }
+                    ]
                 },
                 {
                     "id": "a5e0e795-d6fe-48c4-8a0a-8701ef8fa620",
                     "name": "Nayeli",
                     "date": "Fri Jul 20 1990 14:45:36 GMT+0530 (India Standard Time)",
                     "jobTitle": "Forward Research Coordinator",
-                    "desc": "International"
+                    "desc": "International",
+                    "availablePositions": 7,
+                    "subCards": [
+                        {
+                            "id": "d679c177-0590-4421-9437-df95cdcd3b27",
+                            "title": "Subcard Title 15"
+                        }
+                    ]
                 }
             ]
         }
