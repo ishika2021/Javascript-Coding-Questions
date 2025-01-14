@@ -14,7 +14,23 @@
                     "subCards": [
                         {
                             "id": "b1d9e679-437f-442b-99d0-2c7e8ed9c145",
-                            "title": "Subcard Title 1"
+                            "title": "Subcard Title 1",
+                            "subCards": [
+                                {
+                                    "id": "4f7cb5db-6e97-4c9a-8b39-fc26459e129b",
+                                    "title": "Nested Subcard Title 1.1",
+                                    "subCards": [
+                                        {
+                                            "id": "a3b83d61-8c99-4e3b-a7c4-f16ab7dc681e",
+                                            "title": "Deeply Nested Subcard Title 1.1.1"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "c2a5c17f-b2c1-4c7f-a0e4-1b487ab497f8",
+                                    "title": "Nested Subcard Title 1.2"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -28,7 +44,13 @@
                     "subCards": [
                         {
                             "id": "9c93e7e5-1bcb-4642-b529-cd0f5f2f6b35",
-                            "title": "Subcard Title 2"
+                            "title": "Subcard Title 2",
+                            "subCards": [
+                                {
+                                    "id": "b72c2c08-d35f-4d8d-9c72-41e364057b85",
+                                    "title": "Nested Subcard Title 2.1"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -62,7 +84,13 @@
                     "subCards": [
                         {
                             "id": "657ec0f0-7b93-45c1-b4d8-13f9189b6e97",
-                            "title": "Subcard Title 4"
+                            "title": "Subcard Title 4",
+                            "subCards": [
+                                {
+                                    "id": "83af80c6-b0b8-4c21-9f25-e4f4870c8a7d",
+                                    "title": "Nested Subcard Title 4.1"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -90,7 +118,17 @@
                     "subCards": [
                         {
                             "id": "17459cf9-e7b1-45a5-81f2-1d97ff658fa0",
-                            "title": "Subcard Title 6"
+                            "title": "Subcard Title 6",
+                            "subCards": [
+                                {
+                                    "id": "12edfb6c-282b-41f5-9783-155b6b2b7fc3",
+                                    "title": "Nested Subcard Title 6.1"
+                                },
+                                {
+                                    "id": "72be8e50-9eb3-4ab8-8bc5-430b3f1b1d76",
+                                    "title": "Nested Subcard Title 6.2"
+                                }
+                            ]
                         }
                     ]
                 }
